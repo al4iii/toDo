@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+li {
+  margin: 10px;
+}
+
+.not-selected {
+  background-color: rgb(245, 245, 245);
+}
+
+.selected {
+  background-color: rgb(191, 192, 188);
+}

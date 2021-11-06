@@ -1,0 +1,38 @@
+.delete {
+  margin: 0 1%;
+}
+
+.task {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style-type: none;
+  width: 100%;
+}
+
+.h3 {
+  width: 30%;
+  margin: 3%;
+  font-family: SB Sans Text;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+}
+
+.date {
+  margin: 3%;
+  font-family: SB Sans Text;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+button {
+  margin: 0 7px;
+}
